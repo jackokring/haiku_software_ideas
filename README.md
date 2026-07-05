@@ -10,7 +10,7 @@ This repo contains **Ideas for Haiku Applications**.
 
 ## Ideas (Branch Links)
 
-- [Baster](https://github.com/jackokring/haiku_software_ideas/tree/Baster) - a clipboard utility to change the data mime-type, to allow pasting (pun intended) data in a different creatable format from the clipboard.
+- [Baster](https://github.com/jackokring/haiku_software_ideas/tree/Baster) - a clipboard utility to change the data mime-type, to allow pasting (pun intended) data in a different creatable format from the clipboard. Maybe this could be a drop window, and/or a tray icon, although a tray icon can be a very small drop window. Would also having a list of the "dropped" or cut/copied make for some selection of the last few clipboard items?
 - 
 
 ## Use the Wiki and Discussions (Idea Posts)
